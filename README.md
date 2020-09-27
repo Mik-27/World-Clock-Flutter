@@ -22,5 +22,5 @@ The world clock app for displaying time across the globe for specific locations 
 ## Reference
 
 The Net Ninja
--[YouTube](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
--[Github](https://github.com/iamshaunjp)
+- [YouTube](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+- [Github](https://github.com/iamshaunjp)
