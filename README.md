@@ -1,4 +1,4 @@
-# world_clock
+# World Clock
 
 A new Flutter World Clock application.
 
@@ -14,3 +14,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Introduction
+
+The world clock app for displaying time across the globe for specific locations by fetching the data from the [API](http://worldtimeapi.org/).
+
+## Reference
+
+The Net Ninja
+-[YouTube](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+-[Github](https://github.com/iamshaunjp)
