@@ -11,11 +11,7 @@ class ChooseLocation extends StatefulWidget {
 
 class _ChooseLocationState extends State<ChooseLocation> {
 
-  List a;
   List locations;
-
-  RegExp exp = new RegExp(r"(\/.*)");
-  // RegExp exp = new RegExp(r"(?<=\/(.*))");
 
   void updateTime(index) async {
     WorldTime instance = locations[index];
